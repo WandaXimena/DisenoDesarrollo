@@ -1,2 +1,2 @@
-# miProyectoFinal
-Repositorio para miPoryectoFinal
+# DisenoDesarrollo
+Repositorio para el curso Diseño y Desarrollo
